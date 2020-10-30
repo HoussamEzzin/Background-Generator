@@ -42,9 +42,12 @@ h3{
 
 #generate:hover {
     background: #434343;
-    letter-spacing: .7em;
+    letter-spacing: .6em;
     -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
     -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
     box-shadow: 5px 40px -10px rgba(0,0,0,0.57);
+    text-shadow: 0px 0px 6px rgba(0,0,0,.5);
+    -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+    -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
     transition: all 0.8s ease 0s;
  }
